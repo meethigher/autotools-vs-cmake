@@ -1,8 +1,8 @@
-编译步骤
+编译步骤（基于Debian12）
 
 ```sh
 # 安装前置环境
-apt -y install cmake
+apt -y install cmake gcc
 
 cd hello-cmake
 
